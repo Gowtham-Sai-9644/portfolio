@@ -30,38 +30,6 @@ This repository contains the source code for my professional, recruiter-focused 
 - **Animations:** Framer Motion
 - **Icons:** Lucide React & React Icons
 
-## 🛠️ Local Development Setup
-
-If you want to run this portfolio locally on your machine, follow these simple steps:
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Gowtham-Sai-9644/portfolio.git
-   ```
-
-2. **Navigate into the directory:**
-   ```bash
-   cd portfolio
-   ```
-
-3. **Install the dependencies:**
-   ```bash
-   npm install
-   ```
-
-4. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-
-5. **View the site:**
-   Open your browser and navigate to `http://localhost:5173/`
-
 ## 📫 Contact
 
 Feel free to reach out to me for any collaborations or full-time opportunities!
