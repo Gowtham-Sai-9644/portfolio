@@ -1,32 +1,81 @@
-# React + TypeScript + Vite
+<div align="center">
+  <img src="public/images/carousel_1.png" alt="AI & ML Portfolio Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+  
+  <h1>Nagalingam Gowtham Sai - Professional Portfolio</h1>
+  
+  <p><b>AI & Machine Learning Engineer</b> building intelligent software and data-driven solutions.</p>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 About This Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This repository contains the source code for my professional, recruiter-focused portfolio. The design is inspired by Apple's Human Interface Guidelines, Linear, and Stripe—focusing on clean typography, subtle micro-interactions, premium glassmorphism effects, and absolute minimalism.
 
-## React Compiler
+## ✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Premium Light Theme:** An ultra-clean aesthetic with soft shadows and subtle gradients.
+- **Dynamic Backgrounds:** A continuous Ken Burns background carousel using high-resolution, custom-generated AI/Tech imagery.
+- **Interactive Project Cards:** Expandable project modals featuring detailed case studies, architectural insights, and GitHub repository links.
+- **Responsive Layout:** fully optimized for all screen sizes (mobile, tablet, desktop).
+- **Smooth Animations:** Integrated with Framer Motion for elegant scroll reveals and transition effects.
+- **Performance Optimized:** Built on Vite for lightning-fast load times and seamless development.
 
-## Expanding the Oxlint configuration
+## 💻 Tech Stack
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+- **Framework:** React + TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS v4
+- **UI Components:** Custom components inspired by Shadcn UI
+- **Animations:** Framer Motion
+- **Icons:** Lucide React & React Icons
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+## 🛠️ Local Development Setup
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+If you want to run this portfolio locally on your machine, follow these simple steps:
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Gowtham-Sai-9644/portfolio.git
+   ```
+
+2. **Navigate into the directory:**
+   ```bash
+   cd portfolio
+   ```
+
+3. **Install the dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+5. **View the site:**
+   Open your browser and navigate to `http://localhost:5173/`
+
+## 🌐 Deployment (Vercel)
+
+This project is perfectly optimized for immediate deployment using Vercel.
+
+1. Log in to [Vercel](https://vercel.com/).
+2. Click **Add New** -> **Project**.
+3. Import this GitHub repository.
+4. Vercel will automatically detect the Vite framework.
+5. Click **Deploy**. Your site will be live in seconds!
+
+## 📫 Contact
+
+Feel free to reach out to me for any collaborations or full-time opportunities!
+
+- **LinkedIn:** [Nagalingam Gowtham Sai](https://linkedin.com/in/gowtham-sai-nagalingam-a29382379)
+- **GitHub:** [@gowthamsainagalingam](https://github.com/gowthamsainagalingam)
+- **Email:** gowthamsainagalingam2005@gmail.com
