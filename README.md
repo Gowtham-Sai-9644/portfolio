@@ -62,16 +62,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 5. **View the site:**
    Open your browser and navigate to `http://localhost:5173/`
 
-## 🌐 Deployment (Vercel)
-
-This project is perfectly optimized for immediate deployment using Vercel.
-
-1. Log in to [Vercel](https://vercel.com/).
-2. Click **Add New** -> **Project**.
-3. Import this GitHub repository.
-4. Vercel will automatically detect the Vite framework.
-5. Click **Deploy**. Your site will be live in seconds!
-
 ## 📫 Contact
 
 Feel free to reach out to me for any collaborations or full-time opportunities!
